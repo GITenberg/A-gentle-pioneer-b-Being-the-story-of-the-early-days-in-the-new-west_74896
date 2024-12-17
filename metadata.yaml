@@ -1,0 +1,36 @@
+_repo: A-gentle-pioneer-b-Being-the-story-of-the-early-days-in-the-new-west_74896
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Waugh, Ida
+    birthdate: 1846
+    deathdate: 1919
+    gutenberg_agent_id: '35818'
+    url: http://www.gutenberg.org/2009/agents/35818
+    wikipedia: https://en.wikipedia.org/wiki/Ida_Waugh
+creator:
+  author:
+    agent_name: Blanchard, Amy E
+    gutenberg_agent_id: '57712'
+    url: http://www.gutenberg.org/2009/agents/57712
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74896'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924075839815
+pgterms:marc905: 20221125164337blanchard
+pgterms:marc906: '1903'
+pgterms:marc907: us
+production_note: Carla Foust, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bW. A. Wilde Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A gentle pioneer : $b Being the story of the early days in the new west'
+url: http://www.gutenberg.org/ebooks/74896
