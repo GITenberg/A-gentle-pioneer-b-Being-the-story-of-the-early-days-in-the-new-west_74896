@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '35818'
     url: http://www.gutenberg.org/2009/agents/35818
     wikipedia: https://en.wikipedia.org/wiki/Ida_Waugh
+covers:
+- cover_type: archival
+  image_path: 74896-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, Amy E
     gutenberg_agent_id: '57712'
     url: http://www.gutenberg.org/2009/agents/57712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74896#A-gentle-pioneer-b-Being-the-story-of-the-early-days-in-the-new-west
 gutenberg_issued: '2024-12-14'
 gutenberg_type: Text
 identifiers:
